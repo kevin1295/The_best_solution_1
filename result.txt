@@ -1,0 +1,7 @@
+--------------------results--------------------
+The variance of method_1 in car's speed is 407.931850
+The variance of method_1 in man's speed is 74.547400
+The variance of method_2 in car's speed is 270.679187
+The variance of method_2 in man's speed is 153.241517
+The variance of method_3 in car's speed is 76.822417
+The variance of method_3 in man's speed is 402.667097
